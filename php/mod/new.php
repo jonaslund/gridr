@@ -1,0 +1,3 @@
+<?php
+  Front::updateView("new");
+?>
